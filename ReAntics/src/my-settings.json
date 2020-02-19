@@ -1,1 +1,5 @@
+<<<<<<< Updated upstream
 {"games": [{"type": "Two Player", "num_games": 1, "players": ["search", "Random"]}, {"type": "Two Player", "num_games": 5, "players": ["search", "Random"]}], "additional_settings": {"swap": false, "verbose": false, "timeout": false, "autorestart": false, "pause": true, "pauseIllegal": false, "timeout_limit": "-1", "layout_chosen": "Player Invoked"}, "pause_conditions": []}
+=======
+{"games": [{"type": "Two Player", "num_games": 5, "players": ["search_refactor", "Random"]}], "additional_settings": {"swap": false, "verbose": false, "timeout": false, "autorestart": false, "pause": true, "pauseIllegal": false, "timeout_limit": "-1", "layout_chosen": "Player Invoked"}, "pause_conditions": []}
+>>>>>>> Stashed changes
